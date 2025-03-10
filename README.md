@@ -1,3 +1,7 @@
+# HH Blog
+
+This is a blog project for post news and communication, you can access it from [here](https://hhsharedhub.blog)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
